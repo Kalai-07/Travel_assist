@@ -1,0 +1,32 @@
+export const C = {
+  primary:  '#1A6BDB',
+  primaryD: '#1558BE',
+  pLight:   '#EEF4FF',
+  pMid:     '#BFDBFE',
+  green:    '#059669',
+  greenD:   '#047857',
+  gLight:   '#ECFDF5',
+  bg:       '#F0F4FF',
+  card:     '#FFFFFF',
+  dark:     '#0F172A',
+  text:     '#1E293B',
+  sub:      '#475569',
+  muted:    '#94A3B8',
+  border:   '#E2E8F0',
+  red:      '#DC2626',
+  rLight:   '#FEF2F2',
+  orange:   '#D97706',
+  oLight:   '#FFFBEB',
+  sh:       '0 1px 3px rgba(15,23,42,.07), 0 1px 2px rgba(15,23,42,.04)',
+  shMd:     '0 4px 16px rgba(15,23,42,.08)',
+};
+
+export const NAV = [
+  { id: 'dashboard',     icon: 'dashboard', label: 'Dashboard' },
+  { id: 'diagnostics',   icon: 'activity',  label: 'Vehicle Health' },
+  { id: 'trip',          icon: 'map',       label: 'Trip Planning' },
+  { id: 'services',      icon: 'wrench',    label: 'Services' },
+  { id: 'sos',           icon: 'sos',       label: 'Emergency SOS' },
+  { id: 'notifications', icon: 'bell',      label: 'Notifications', badge: 3 },
+  { id: 'profile',       icon: 'user',      label: 'Profile' },
+];

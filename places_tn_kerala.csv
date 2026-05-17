@@ -1,0 +1,96 @@
+place_id,name,city,state,category,rating,entry_fee,duration,best_time,description
+1,Marina Beach,Chennai,Tamil Nadu,nature,4.4,0,2-3 hrs,All Year,"Worlds second longest beach, sunrise view"
+2,Kapaleeshwarar Temple,Chennai,Tamil Nadu,culture,4.7,0,1-2 hrs,All Year,Ancient Dravidian architecture temple
+3,Government Museum Chennai,Chennai,Tamil Nadu,culture,4.4,20,2-3 hrs,All Year,"Bronze gallery, natural history exhibits"
+4,Fort St George,Chennai,Tamil Nadu,culture,4.3,5,1-2 hrs,All Year,"17th century British fort, museum inside"
+5,Valluvar Kottam,Chennai,Tamil Nadu,culture,4.2,0,1 hr,All Year,Memorial chariot for Tamil poet Thiruvalluvar
+6,Semmozhi Poonga Botanical Garden,Chennai,Tamil Nadu,nature,4.3,20,2 hrs,All Year,"500+ plant species, peaceful walks"
+7,Mahabalipuram Shore Temple,Mahabalipuram,Tamil Nadu,culture,4.7,40,2-3 hrs,Oct-Mar,UNESCO World Heritage 7th century temple
+8,Five Rathas Mahabalipuram,Mahabalipuram,Tamil Nadu,culture,4.6,40,1-2 hrs,Oct-Mar,Monolithic rock-cut chariots
+9,Arjunas Penance Mahabalipuram,Mahabalipuram,Tamil Nadu,culture,4.5,0,1 hr,Oct-Mar,Worlds largest bas-relief sculpture
+10,Meenakshi Amman Temple,Madurai,Tamil Nadu,culture,4.9,0,2-3 hrs,All Year,Magnificent Dravidian architecture temple
+11,Thirumalai Nayakkar Mahal,Madurai,Tamil Nadu,culture,4.6,50,1-2 hrs,All Year,17th century palace with Indo-Saracenic style
+12,Gandhi Museum Madurai,Madurai,Tamil Nadu,culture,4.4,5,1-2 hrs,All Year,"Dedicated to Mahatma Gandhi, blood-stained dhoti"
+13,Koodal Azhagar Temple,Madurai,Tamil Nadu,culture,4.5,0,1 hr,All Year,Three-storied Vishnu temple
+14,Vaigai River Madurai,Madurai,Tamil Nadu,nature,4.0,0,1 hr,All Year,Scenic riverside walk
+15,Marudhamalai Temple Coimbatore,Coimbatore,Tamil Nadu,culture,4.6,0,1-2 hrs,All Year,Hilltop Murugan temple with valley views
+16,Dhyanalinga Temple Coimbatore,Coimbatore,Tamil Nadu,culture,4.8,0,1-2 hrs,All Year,Isha Foundation meditation space
+17,Adiyogi Shiva Statue,Coimbatore,Tamil Nadu,culture,4.7,0,1 hr,All Year,Worlds largest bust statue 112 ft Shiva
+18,Black Thunder Water Park,Mettupalayam,Tamil Nadu,adventure,4.3,700,4-6 hrs,All Year,South India largest water theme park
+19,Siruvani Waterfalls,Coimbatore,Tamil Nadu,nature,4.5,30,2-3 hrs,Jul-Nov,One of sweetest water falls in world
+20,Ooty Lake,Ooty,Tamil Nadu,nature,4.3,30,1-2 hrs,All Year,Boating on scenic artificial lake
+21,Botanical Garden Ooty,Ooty,Tamil Nadu,nature,4.6,30,2-3 hrs,All Year,"36 acres, 650+ plant species, fossil tree"
+22,Doddabetta Peak Ooty,Ooty,Tamil Nadu,nature,4.5,30,1-2 hrs,All Year,"Highest peak in Nilgiris 2637m, telescope"
+23,Nilgiri Mountain Railway,Ooty,Tamil Nadu,adventure,4.8,250,3 hrs,All Year,UNESCO heritage toy train through hills
+24,Rose Garden Ooty,Ooty,Tamil Nadu,nature,4.4,30,1-2 hrs,Apr-Jun,"20,000 varieties of roses, 4000+ species"
+25,Pine Forest Ooty,Ooty,Tamil Nadu,nature,4.5,0,1-2 hrs,All Year,"Towering pine trees, photography paradise"
+26,Lamb Rock Viewpoint Coonoor,Ooty,Tamil Nadu,nature,4.4,0,1 hr,All Year,Panoramic views of Nilgiri valleys
+27,Sim Park Coonoor,Ooty,Tamil Nadu,nature,4.3,30,1-2 hrs,All Year,Hilltop botanical park
+28,Brihadeeswara Temple Thanjavur,Thanjavur,Tamil Nadu,culture,4.9,0,2-3 hrs,All Year,UNESCO World Heritage 11th century Chola temple
+29,Rock Fort Temple Trichy,Trichy,Tamil Nadu,culture,4.7,10,1-2 hrs,All Year,Ancient temple atop rocky outcrop
+30,Sri Ranganathaswamy Temple Trichy,Trichy,Tamil Nadu,culture,4.8,0,2-3 hrs,All Year,Largest functioning temple complex in world
+31,Grand Anicut Trichy,Trichy,Tamil Nadu,culture,4.3,0,1 hr,All Year,Ancient dam built by Karikala Chola
+32,Vivekananda Rock Memorial,Kanyakumari,Tamil Nadu,culture,4.8,20,2-3 hrs,All Year,Rock island memorial where Swami meditated
+33,Kanyakumari Beach Sunrise,Kanyakumari,Tamil Nadu,nature,4.9,0,1-2 hrs,All Year,Tripoint of Indian Ocean Arabian Sea Bay of Bengal
+34,Thiruvalluvar Statue Kanyakumari,Kanyakumari,Tamil Nadu,culture,4.7,20,1 hr,All Year,133 ft statue of Tamil poet Thiruvalluvar
+35,Kumari Amman Temple,Kanyakumari,Tamil Nadu,culture,4.8,0,1 hr,All Year,Sacred temple at the tip of India
+36,Tsunami Monument Kanyakumari,Kanyakumari,Tamil Nadu,culture,4.2,0,30 min,All Year,Memorial for 2004 tsunami victims
+37,Kodaikanal Lake,Kodaikanal,Tamil Nadu,nature,4.5,0,2-3 hrs,All Year,"Star-shaped lake, boating, cycling around"
+38,Coaker Walk Kodaikanal,Kodaikanal,Tamil Nadu,nature,4.6,10,1 hr,All Year,Scenic 1km walk with valley and cloud views
+39,Bryant Park Kodaikanal,Kodaikanal,Tamil Nadu,nature,4.4,30,1-2 hrs,All Year,"Exotic plants, orchids, bonsai garden"
+40,Pillar Rocks Kodaikanal,Kodaikanal,Tamil Nadu,nature,4.5,10,1 hr,All Year,Three vertical granite formations 400 ft high
+41,Silver Cascade Falls Kodaikanal,Kodaikanal,Tamil Nadu,nature,4.3,0,30 min,Jul-Nov,Roadside waterfall near Kodaikanal town
+42,Berijam Lake Kodaikanal,Kodaikanal,Tamil Nadu,nature,4.7,150,2-3 hrs,All Year,Reserved forest lake permit required
+43,Ramanathaswamy Temple Rameswaram,Rameswaram,Tamil Nadu,culture,4.9,0,2-3 hrs,All Year,22 sacred wells temple corridor 1200 ft long
+44,Pamban Bridge Rameswaram,Rameswaram,Tamil Nadu,culture,4.7,0,30 min,All Year,First sea bridge in India over Palk Strait
+45,Dhanushkodi Beach,Rameswaram,Tamil Nadu,nature,4.8,0,2-3 hrs,Oct-Mar,Ghost town at tip peninsula stunning views
+46,Gandamadana Parvatham,Rameswaram,Tamil Nadu,culture,4.5,0,1 hr,All Year,Hilltop with Rama's footprints panoramic views
+47,Promenade Beach Pondicherry,Pondicherry,Tamil Nadu,nature,4.5,0,2 hrs,All Year,French colonial promenade along Bay of Bengal
+48,Auroville Pondicherry,Pondicherry,Tamil Nadu,culture,4.6,0,2-3 hrs,All Year,Experimental universal township Matrimandir
+49,French Quarter Pondicherry,Pondicherry,Tamil Nadu,culture,4.7,0,2-3 hrs,All Year,"Colonial French architecture, cafes, galleries"
+50,Sri Aurobindo Ashram,Pondicherry,Tamil Nadu,culture,4.7,0,1-2 hrs,All Year,Spiritual ashram founded by Sri Aurobindo
+51,Paradise Beach Pondicherry,Pondicherry,Tamil Nadu,nature,4.4,100,2-3 hrs,Oct-Mar,Secluded beach accessible only by boat
+52,Eravikulam National Park Munnar,Munnar,Kerala,nature,4.8,125,2-3 hrs,Sep-Jan,"Home to Nilgiri Tahr, Rajamala grasslands"
+53,Mattupetty Dam Munnar,Munnar,Kerala,nature,4.5,0,1-2 hrs,All Year,"Scenic dam boating, surrounding tea estates"
+54,Top Station Munnar,Munnar,Kerala,nature,4.7,0,2-3 hrs,All Year,"Highest point 1700m, panoramic view of Kerala"
+55,Tea Museum Munnar,Munnar,Kerala,culture,4.5,75,1-2 hrs,All Year,"History of tea plantation, processing demo"
+56,Attukal Waterfalls Munnar,Munnar,Kerala,nature,4.6,0,1-2 hrs,Jun-Dec,Scenic waterfall near Munnar town
+57,Neelakurinji Flowers Munnar,Munnar,Kerala,nature,4.9,0,2 hrs,2030,Rare flowers bloom once 12 years Nilgiris blue
+58,Lockhart Gap Munnar,Munnar,Kerala,nature,4.6,0,1 hr,All Year,Dramatic cliff road scenic viewpoint
+59,Alleppey Backwaters,Alleppey,Kerala,nature,4.9,0,4-8 hrs,Oct-Mar,Venice of East houseboat cruise network
+60,Alleppey Beach,Alleppey,Kerala,nature,4.4,0,2 hrs,All Year,Long sandy beach with old lighthouse
+61,Vembanad Lake Alleppey,Alleppey,Kerala,nature,4.7,0,2-4 hrs,All Year,"Largest lake in Kerala, Nehru Trophy races"
+62,Krishnapuram Palace Alleppey,Alleppey,Kerala,culture,4.5,20,1-2 hrs,All Year,18th century palace Kerala architecture
+63,Ambalappuzha Sri Krishna Temple,Alleppey,Kerala,culture,4.8,0,1 hr,All Year,Famous palpayasam offering ancient temple
+64,Pathiramanal Island Alleppey,Alleppey,Kerala,nature,4.6,0,2-3 hrs,Oct-Mar,Bird sanctuary island 50+ migratory birds
+65,Chinese Fishing Nets Fort Kochi,Kochi,Kerala,culture,4.7,0,1 hr,All Year,Iconic cantilevered nets dating to 14th century
+66,Mattancherry Palace Dutch Palace,Kochi,Kerala,culture,4.5,10,1-2 hrs,All Year,16th century Portuguese palace Kerala murals
+67,Jew Town and Paradesi Synagogue,Kochi,Kerala,culture,4.6,5,1-2 hrs,All Year,"Oldest synagogue India 1568, antique shops"
+68,Fort Kochi Heritage Walk,Kochi,Kerala,culture,4.8,0,3-4 hrs,All Year,Colonial architecture Portuguese Dutch British
+69,Cherai Beach Kochi,Kochi,Kerala,nature,4.5,0,2-3 hrs,Oct-May,Beautiful beach backwaters on one side sea other
+70,Kerala Folklore Theatre Museum,Kochi,Kerala,culture,4.7,100,1-2 hrs,All Year,"Kerala performing arts costumes, masks"
+71,Cochin Carnival Kochi,Kochi,Kerala,culture,4.9,0,All Day,Dec 31,"New Year carnival, parades, beach activities"
+72,Kovalam Beach,Thiruvananthapuram,Kerala,nature,4.6,0,3-4 hrs,Oct-Mar,"Crescent shaped beach lighthouse, watersports"
+73,Padmanabhaswamy Temple Trivandrum,Thiruvananthapuram,Kerala,culture,4.9,0,2 hrs,All Year,"Richest temple world, reclining Vishnu gold"
+74,Napier Museum Trivandrum,Thiruvananthapuram,Kerala,culture,4.4,30,1-2 hrs,All Year,"Natural history, Kerala arts crafts exhibits"
+75,Agasthyamalai Biosphere,Thiruvananthapuram,Kerala,nature,4.7,150,Full Day,Oct-Feb,Neyyar Wildlife Sanctuary trekking biodiversity
+76,Varkala Beach,Varkala,Kerala,nature,4.7,0,3-4 hrs,Oct-Mar,"Unique cliff beach mineral spring, yoga"
+77,Attukal Bhagavathy Temple,Thiruvananthapuram,Kerala,culture,4.7,0,1 hr,All Year,Famous pongala festival Guinness record
+78,Periyar Wildlife Sanctuary,Thekkady,Kerala,nature,4.8,300,3-6 hrs,Oct-Jun,Tiger reserve boat safari elephant watching
+79,Periyar Lake Boat Ride,Thekkady,Kerala,nature,4.7,150,2 hrs,All Year,Lake safari spot wildlife from water
+80,Spice Plantation Tour Thekkady,Thekkady,Kerala,culture,4.6,200,2 hrs,All Year,Cardamom pepper cinnamon clove plantation walk
+81,Elephant Junction Thekkady,Thekkady,Kerala,adventure,4.5,600,2 hrs,All Year,"Elephant bathing, feeding, riding experience"
+82,Mangaladevi Temple Thekkady,Thekkady,Kerala,culture,4.4,0,2 hrs,Apr-May,Remote forest temple permit required
+83,Border Hiking Thekkady,Thekkady,Kerala,adventure,4.7,300,4-6 hrs,Oct-Jun,Guided treks inside Periyar forest
+84,Edakkal Caves Wayanad,Wayanad,Kerala,culture,4.7,60,2-3 hrs,All Year,Prehistoric carvings pictorial writings 6000 yrs
+85,Chembra Peak Wayanad,Wayanad,Kerala,adventure,4.8,300,6-8 hrs,Sep-May,Highest peak Wayanad 2100m heart shaped lake
+86,Banasura Sagar Dam Wayanad,Wayanad,Kerala,nature,4.6,30,1-2 hrs,All Year,Earths second largest earthen dam boating
+87,Soochipara Waterfalls Wayanad,Wayanad,Kerala,nature,4.7,50,2-3 hrs,Jun-Nov,Three-tiered waterfall swimming pool
+88,Meenmutty Falls Wayanad,Wayanad,Kerala,nature,4.6,50,3-4 hrs,Jun-Nov,Second largest waterfall Kerala trekking
+89,Thirunelly Temple Wayanad,Wayanad,Kerala,culture,4.7,0,1-2 hrs,All Year,Ancient Vishnu temple Brahmagiri hills
+90,Pakshipathalam Bird Sanctuary,Wayanad,Kerala,nature,4.5,200,Full Day,Oct-May,Rare bird sanctuary trekking permit needed
+91,Kozhikode Beach Calicut,Kozhikode,Kerala,nature,4.4,0,2 hrs,All Year,Scenic beach 19th century pier sunset views
+92,Kappad Beach Kozhikode,Kozhikode,Kerala,nature,4.5,0,2-3 hrs,Oct-Mar,Where Vasco da Gama landed 1498 historic
+93,Krishnamurthy Museum Kozhikode,Kozhikode,Kerala,culture,4.3,10,1-2 hrs,All Year,Numismatic collection woodwork models
+94,Mishkal Mosque Kozhikode,Kozhikode,Kerala,culture,4.6,0,30 min,All Year,14th century multi-tiered Kerala mosque
+95,Sweet Street SM Street Kozhikode,Kozhikode,Kerala,food,4.7,0,1-2 hrs,All Year,Famous halwa shops Kozhikode halwa heritage

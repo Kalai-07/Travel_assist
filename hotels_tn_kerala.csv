@@ -1,0 +1,105 @@
+hotel_id,name,city,state,area,style,stars,rating,cost_per_night,amenities,breakfast,pool,wifi,parking,ac
+1,The Leela Palace Chennai,Chennai,Tamil Nadu,Adyar,luxury,5,4.8,18000,"Pool,Spa,Gym,Restaurant,Bar",True,True,True,True,True
+2,ITC Grand Chola,Chennai,Tamil Nadu,Guindy,luxury,5,4.9,22000,"Pool,Spa,Gym,Multiple Restaurants,Bar,Butler",True,True,True,True,True
+3,Taj Coromandel,Chennai,Tamil Nadu,Nungambakkam,luxury,5,4.7,16000,"Pool,Spa,Restaurant,Bar,Concierge",True,True,True,True,True
+4,Hyatt Regency Chennai,Chennai,Tamil Nadu,Anna Salai,luxury,5,4.6,14500,"Pool,Spa,Gym,Restaurant,Bar",True,True,True,True,True
+5,Radisson Blu Chennai,Chennai,Tamil Nadu,Golden George Nagar,comfort,4,4.5,8500,"Pool,Restaurant,Bar,Gym",True,True,True,True,True
+6,Four Points by Sheraton Chennai,Chennai,Tamil Nadu,Velachery,comfort,4,4.3,6500,"Restaurant,Gym,WiFi,Parking",False,True,True,True,True
+7,Hotel Green Park Chennai,Chennai,Tamil Nadu,Nungambakkam,comfort,4,4.2,5500,"Restaurant,WiFi,Parking,AC",True,True,True,True,True
+8,Zostel Chennai,Chennai,Tamil Nadu,Mylapore,budget,2,4.0,800,"WiFi,Common Kitchen,Lockers",False,False,True,False,True
+9,Hotel Himalaya Chennai,Chennai,Tamil Nadu,Egmore,budget,2,3.8,1200,"AC,WiFi,Restaurant",False,True,True,False,True
+10,Treebo Trend Ambal Residency,Chennai,Tamil Nadu,T Nagar,budget,3,4.1,2000,"AC,WiFi,TV,Housekeeping",False,True,True,False,True
+11,Heritage Madurai,Madurai,Tamil Nadu,KK Nagar,luxury,5,4.8,12000,"Pool,Spa,Restaurant,Heritage Walk",True,True,True,True,True
+12,Taj Gateway Madurai,Madurai,Tamil Nadu,Pasumalai,luxury,5,4.7,11000,"Pool,Restaurant,Bar,Spa",True,True,True,True,True
+13,Hotel Sangam Madurai,Madurai,Tamil Nadu,Trichy Road,comfort,4,4.3,5000,"Pool,Restaurant,WiFi,Gym",True,True,True,True,True
+14,Royal Court Hotel Madurai,Madurai,Tamil Nadu,West Masi Street,comfort,3,4.1,3500,"Restaurant,WiFi,AC,Parking",True,False,True,True,True
+15,Hotel Prem Nivas Madurai,Madurai,Tamil Nadu,Dindigul Road,budget,2,3.9,1500,"AC,WiFi,TV",False,True,True,False,True
+16,Hotel Sree Devi Madurai,Madurai,Tamil Nadu,South Madurai,budget,2,3.7,900,"AC,Fan,TV",False,True,True,False,True
+17,Vivanta Coimbatore,Coimbatore,Tamil Nadu,Race Course,luxury,5,4.7,10000,"Pool,Spa,Restaurant,Bar,Gym",True,True,True,True,True
+18,Le Meridien Coimbatore,Coimbatore,Tamil Nadu,Avinashi Road,luxury,5,4.6,9500,"Pool,Restaurant,Bar,Spa",True,True,True,True,True
+19,Hotel KK Presidency Coimbatore,Coimbatore,Tamil Nadu,RS Puram,comfort,4,4.3,4500,"Restaurant,WiFi,AC,Gym",True,True,True,True,True
+20,Hotel Surya International Coimbatore,Coimbatore,Tamil Nadu,Cross Cut Road,comfort,3,4.0,3200,"Restaurant,WiFi,AC",True,True,True,True,True
+21,Hotel Sree Annapoorna Coimbatore,Coimbatore,Tamil Nadu,Gandhipuram,budget,2,3.9,1200,"AC,WiFi,Restaurant",False,True,True,False,True
+22,Backpacker Panda Coimbatore,Coimbatore,Tamil Nadu,RS Puram,budget,2,4.0,750,"WiFi,Common Lounge,Lockers",False,False,True,False,True
+23,Savoy Hotel Ooty,Ooty,Tamil Nadu,Sylks Road,luxury,5,4.7,14000,"Heritage,Garden,Restaurant,Fireplace",True,False,True,True,False
+24,Taj Savoy Ooty,Ooty,Tamil Nadu,Havelock Road,luxury,5,4.8,16000,"Heritage,Garden,Restaurant,Bar,Spa",True,False,True,True,False
+25,Sterling Ooty Fern Hill,Ooty,Tamil Nadu,Fern Hill,comfort,4,4.4,8000,"Garden,Restaurant,WiFi,Valley View",True,False,True,True,False
+26,Hotel Lakeview Ooty,Ooty,Tamil Nadu,Commercial Road,comfort,3,4.2,4500,"Restaurant,WiFi,Parking",True,False,True,True,False
+27,Hotel Dasaprakash Ooty,Ooty,Tamil Nadu,Ettines Road,comfort,3,4.0,3500,"Restaurant,WiFi,Mountain View",True,False,True,True,False
+28,Green View Hotel Ooty,Ooty,Tamil Nadu,Charing Cross,budget,2,3.8,1800,"WiFi,Hot Water,TV",False,False,True,False,False
+29,Zostel Ooty,Ooty,Tamil Nadu,Charring Cross,budget,2,4.1,950,"WiFi,Mountain View,Common Area",False,False,True,False,False
+30,GRT Regency Trichy,Trichy,Tamil Nadu,Collector Office Road,luxury,5,4.6,8500,"Pool,Restaurant,Bar,Gym,Spa",True,True,True,True,True
+31,Hotel Sangam Trichy,Trichy,Tamil Nadu,Collector Office Road,comfort,4,4.3,5000,"Pool,Restaurant,WiFi,Gym",True,True,True,True,True
+32,Hotel Mathura Trichy,Trichy,Tamil Nadu,Williams Road,budget,2,3.8,1400,"AC,WiFi,Restaurant",False,True,True,False,True
+33,Hotel Breeze Trichy,Trichy,Tamil Nadu,McDonald Road,budget,2,3.6,1100,"AC,Fan,TV",False,True,True,False,True
+34,Sparsa Resort Kanyakumari,Kanyakumari,Tamil Nadu,Kovalam Road,luxury,4,4.5,9000,"Pool,Spa,Restaurant,Sea View",True,True,True,True,True
+35,Hotel Seashore Kanyakumari,Kanyakumari,Tamil Nadu,Beach Road,comfort,3,4.2,3800,"Sea View,Restaurant,WiFi",True,True,True,True,True
+36,Hotel Tamil Nadu TTDC Kanyakumari,Kanyakumari,Tamil Nadu,Beach Road,budget,2,3.7,1800,"AC,WiFi,Restaurant,Sea View",False,True,True,False,True
+37,Carlton Hotel Kodaikanal,Kodaikanal,Tamil Nadu,Lake Road,luxury,5,4.7,13000,"Lake View,Restaurant,Garden,Heritage",True,False,True,True,False
+38,Club Mahindra Kodaikanal,Kodaikanal,Tamil Nadu,PT Road,comfort,4,4.4,7500,"Restaurant,Garden,Activities,WiFi",True,False,True,True,False
+39,Sterling Kodaikanal,Kodaikanal,Tamil Nadu,Coaker Walk,comfort,3,4.2,5000,"Valley View,Restaurant,WiFi",True,False,True,True,False
+40,Hotel Jewel Kodaikanal,Kodaikanal,Tamil Nadu,Bear Shola Road,budget,2,3.9,2000,"WiFi,Hot Water,Valley View",False,False,True,False,False
+41,Promenade Hotel Pondicherry,Pondicherry,Tamil Nadu,French Quarter,luxury,5,4.8,16000,"Heritage,Pool,Restaurant,Beach View,Bar",True,True,True,True,True
+42,Le Dupleix Pondicherry,Pondicherry,Tamil Nadu,French Quarter,luxury,4,4.7,12000,"Heritage Mansion,Pool,Restaurant,Garden",True,True,True,True,True
+43,Hotel De LOrient Pondicherry,Pondicherry,Tamil Nadu,French Quarter,comfort,3,4.5,7000,"Heritage,Garden,Restaurant,WiFi",True,True,True,True,True
+44,Surguru Hotel Pondicherry,Pondicherry,Tamil Nadu,MG Road,budget,2,3.9,2500,"AC,WiFi,Restaurant",False,True,True,False,True
+45,Ideal River View Resort Thanjavur,Thanjavur,Tamil Nadu,Grand Anicut Canal,comfort,3,4.3,5000,"Pool,Restaurant,Cultural Shows,WiFi",True,True,True,True,True
+46,Hotel Parisutham Thanjavur,Thanjavur,Tamil Nadu,Grand Anicut Road,comfort,3,4.1,4000,"Restaurant,WiFi,Parking,AC",True,True,True,True,True
+47,Hotel Rajah Thanjavur,Thanjavur,Tamil Nadu,Near Big Temple,budget,2,3.8,1500,"AC,WiFi,TV",False,True,True,False,True
+48,Hotel Tamil Nadu TTDC Rameswaram,Rameswaram,Tamil Nadu,Near Temple,comfort,3,4.0,3500,"Sea View,Restaurant,WiFi",True,True,True,True,True
+49,Hotel Maharaja Rameswaram,Rameswaram,Tamil Nadu,Near Temple,budget,2,3.7,1200,"AC,Fan,TV,Restaurant",False,True,True,False,True
+50,Radisson Blu Resort Mahabalipuram,Mahabalipuram,Tamil Nadu,Beach Road,luxury,5,4.6,12000,"Pool,Spa,Restaurant,Beach Access",True,True,True,True,True
+51,Ideal Beach Resort Mahabalipuram,Mahabalipuram,Tamil Nadu,East Raja Street,comfort,3,4.2,5500,"Pool,Beach,Restaurant,WiFi",True,True,True,True,True
+52,Hotel Sea Breeze Mahabalipuram,Mahabalipuram,Tamil Nadu,Beach Road,budget,2,3.8,2000,"AC,WiFi,Sea View",False,True,True,False,True
+53,Hotel Darling Residency Vellore,Vellore,Tamil Nadu,Katpadi Road,comfort,3,4.1,4000,"Restaurant,WiFi,AC,Parking",True,True,True,True,True
+54,Hotel Shelton Vellore,Vellore,Tamil Nadu,Main Bazaar,budget,2,3.7,1400,"AC,WiFi,TV",False,True,True,False,True
+55,Windermere Estate Munnar,Munnar,Kerala,Pallivasal,luxury,5,4.9,18000,"Tea Estate,Spa,Restaurant,Nature Walk,Pool",True,False,True,True,False
+56,Tea Valley Resort Munnar,Munnar,Kerala,Devikulam,luxury,4,4.7,12000,"Tea Plantation,Restaurant,Spa,Mountain View",True,False,True,True,False
+57,Blanket Hotel and Spa Munnar,Munnar,Kerala,Top Station Road,luxury,4,4.6,10000,"Spa,Restaurant,Pool,Valley View",True,False,True,True,False
+58,Elysium Garden Hill Resorts Munnar,Munnar,Kerala,Pothamedu,comfort,4,4.4,6500,"Garden,Restaurant,WiFi,Mountain View",True,False,True,True,False
+59,Misty Mountain Resort Munnar,Munnar,Kerala,Chinnakanal,comfort,3,4.2,4500,"Restaurant,WiFi,Mountain View",True,False,True,True,False
+60,Hotel Regency Munnar,Munnar,Kerala,Munnar Town,budget,2,3.9,1600,"WiFi,Hot Water,TV",False,False,True,False,False
+61,White Mist Munnar,Munnar,Kerala,Munnar Road,budget,2,4.0,1400,"WiFi,Hot Water,Balcony",False,False,True,False,False
+62,Tea Garden Homestay Munnar,Munnar,Kerala,Pallivasal,budget,2,4.2,2200,"Homemade Breakfast,Tea Plantation View",True,False,True,False,False
+63,Marari Beach Resort Alleppey,Alleppey,Kerala,Mararikulam,luxury,5,4.9,22000,"Private Beach,Pool,Spa,Restaurant,Yoga",True,True,True,True,True
+64,Houseboat Luxury Alleppey,Alleppey,Kerala,Punnamada Lake,luxury,4,4.8,14000,"Private Houseboat,Cook,AC Cabin,Backwaters",True,True,True,True,True
+65,Palm Grove Lake Resort Alleppey,Alleppey,Kerala,Alleppey Town,comfort,3,4.2,5000,"Backwater View,Restaurant,WiFi",True,True,True,True,True
+66,Houseboat Standard Alleppey,Alleppey,Kerala,Punnamada Lake,comfort,3,4.4,7000,"Houseboat,Cook,Fan Cabin,Backwaters",True,False,True,True,True
+67,Lake Palace Resort Alleppey,Alleppey,Kerala,Punnamada,comfort,3,4.3,5500,"Lake View,Restaurant,WiFi,Kayak",True,True,True,True,True
+68,Government Guest House Alleppey,Alleppey,Kerala,Beach Road,budget,1,3.5,1200,"Basic Rooms,Fan,Attached Bath",False,False,True,False,True
+69,Zostel Alleppey,Alleppey,Kerala,Alleppey Town,budget,2,4.1,900,"WiFi,Common Area,Bicycle Rental",False,False,True,False,True
+70,CGH Earth Brunton Boatyard Kochi,Kochi,Kerala,Fort Kochi,luxury,5,4.9,20000,"Heritage,Pool,Restaurant,Spa,Harbour View",True,True,True,True,True
+71,Taj Malabar Resort Kochi,Kochi,Kerala,Willingdon Island,luxury,5,4.8,18000,"Pool,Spa,Restaurant,Sea View,Marina",True,True,True,True,True
+72,Le Meridien Kochi,Kochi,Kerala,Maradu,luxury,5,4.7,16000,"Pool,Spa,Restaurant,Bar,Gym",True,True,True,True,True
+73,Trident Hotel Kochi,Kochi,Kerala,Willingdon Island,comfort,4,4.5,9000,"Pool,Restaurant,Bar,Backwater View",True,True,True,True,True
+74,Fort House Hotel Kochi,Kochi,Kerala,Fort Kochi,comfort,3,4.3,5500,"Heritage,Restaurant,WiFi,River View",True,True,True,True,True
+75,Old Courtyard Hotel Kochi,Kochi,Kerala,Fort Kochi,comfort,3,4.4,6000,"Heritage,Garden,WiFi,Restaurant",True,True,True,True,True
+76,Zostel Kochi,Kochi,Kerala,Fort Kochi,budget,2,4.2,900,"WiFi,Common Area,Lockers,Tours",False,False,True,False,True
+77,Hotel Abad Kochi,Kochi,Kerala,MG Road,budget,2,3.8,2200,"AC,WiFi,Restaurant",False,True,True,False,True
+78,Gokulam Park Kochi,Kochi,Kerala,Edappally,comfort,4,4.1,5500,"Pool,Restaurant,WiFi,Gym",True,True,True,True,True
+79,The Leela Kovalam,Thiruvananthapuram,Kerala,Kovalam Beach,luxury,5,4.8,20000,"Private Beach,Pool,Spa,Multiple Restaurants,Cliff",True,True,True,True,True
+80,Uday Samudra Kovalam,Thiruvananthapuram,Kerala,Kovalam,luxury,5,4.6,14000,"Private Beach,Pool,Ayurveda Spa,Restaurant",True,True,True,True,True
+81,Hotel Samudra KTDC Kovalam,Thiruvananthapuram,Kerala,Kovalam,comfort,3,4.1,5000,"Sea View,Restaurant,WiFi,Beach Access",True,True,True,True,True
+82,Varmas Beach Resort Kovalam,Thiruvananthapuram,Kerala,Lighthouse Beach,comfort,3,4.0,4500,"Sea View,Restaurant,WiFi",True,True,True,True,True
+83,Kovalam Hostel,Thiruvananthapuram,Kerala,Lighthouse Beach,budget,1,4.0,800,"WiFi,Sea View,Common Kitchen",False,False,True,False,True
+84,Spice Village CGH Earth Thekkady,Thekkady,Kerala,Kumily,luxury,4,4.8,15000,"Eco Resort,Spice Garden,Restaurant,Wildlife",True,False,True,True,True
+85,Shalimar Spice Garden Thekkady,Thekkady,Kerala,Kumily,luxury,4,4.7,12000,"Spice Garden,Pool,Spa,Restaurant,Nature Walk",True,True,True,True,True
+86,Hotel Elephant Court Thekkady,Thekkady,Kerala,Thekkady Road,comfort,3,4.3,5500,"Restaurant,WiFi,Garden,Safari Desk",True,True,True,True,True
+87,KTDC Aranya Nivas Thekkady,Thekkady,Kerala,Inside Periyar,comfort,3,4.1,4500,"Forest View,Restaurant,WiFi",True,True,True,True,True
+88,Coffee House Thekkady,Thekkady,Kerala,Kumily,budget,2,3.8,1600,"WiFi,Hot Water,Restaurant",False,False,True,False,True
+89,Vythiri Resort Wayanad,Wayanad,Kerala,Vythiri,luxury,5,4.8,18000,"Treetop Villa,Pool,Spa,Restaurant,Zipline",True,False,True,True,False
+90,Tranquil Plantation Hideaway Wayanad,Wayanad,Kerala,Kolagappara,luxury,4,4.9,20000,"Coffee Estate,Treehouse,Restaurant,Activities",True,False,True,True,False
+91,The Windflower Resort Wayanad,Wayanad,Kerala,Sultan Bathery,comfort,4,4.5,8000,"Pool,Restaurant,Nature Walk,Plantation",True,True,True,True,False
+92,Pepper Trail Homestay Wayanad,Wayanad,Kerala,Kalpetta,comfort,3,4.4,5500,"Spice Garden,Homemade Food,WiFi",True,False,True,True,False
+93,Green Gates Hotel Wayanad,Wayanad,Kerala,Kalpetta,budget,2,3.9,2200,"WiFi,Restaurant,Parking",False,True,True,False,False
+94,Taj Hotel Convention Centre Calicut,Kozhikode,Kerala,Calicut Beach,luxury,5,4.7,12000,"Pool,Spa,Restaurant,Beach View",True,True,True,True,True
+95,The Raviz Calicut,Kozhikode,Kerala,Calicut Beach,comfort,4,4.5,7000,"Pool,Restaurant,WiFi,Sea View",True,True,True,True,True
+96,Hotel Hyson Heritage Kozhikode,Kozhikode,Kerala,SM Street,comfort,3,4.2,4500,"Heritage,Restaurant,WiFi,AC",True,True,True,True,True
+97,Hotel Malabar Palace Kozhikode,Kozhikode,Kerala,GH Road,comfort,3,4.0,4000,"Restaurant,WiFi,AC,Parking",True,True,True,True,True
+98,Zostel Kozhikode,Kozhikode,Kerala,Beach Road,budget,2,4.1,850,"WiFi,Common Area,Beach Nearby",False,False,True,False,True
+99,The Primus Residency Thrissur,Thrissur,Kerala,Round South,comfort,3,4.2,5000,"Restaurant,WiFi,AC,Gym",True,True,True,True,True
+100,Hotel Luciya Palace Thrissur,Thrissur,Kerala,MG Road,comfort,3,4.0,4000,"Restaurant,WiFi,AC,Parking",True,True,True,True,True
+101,Elite International Thrissur,Thrissur,Kerala,Chembotil Lane,budget,2,3.8,2500,"AC,WiFi,Restaurant",False,True,True,False,True
+102,Taj Green Cove Resort Varkala,Varkala,Kerala,Varkala Cliff,luxury,5,4.7,18000,"Pool,Spa,Restaurant,Cliff View,Beach",True,True,True,True,True
+103,Clafouti Beach Resort Varkala,Varkala,Kerala,Varkala Cliff,comfort,3,4.3,5000,"Cliff View,Restaurant,WiFi,Beach",True,True,True,True,True
+104,Hostel Varkala,Varkala,Kerala,Varkala Cliff,budget,2,4.2,900,"WiFi,Cliff View,Common Area",False,False,True,False,True
